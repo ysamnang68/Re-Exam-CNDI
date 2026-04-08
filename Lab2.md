@@ -1,3 +1,4 @@
+Lab2: Configure DHCP
 🔧 1. Set Identity
 /system identity set name="YourName"
 ________________________________________
