@@ -1,4 +1,4 @@
-# Lesson1
+Lab1: Basic Configure
 🔧 1. Set Router Identity
 /system identity set name="YourName"
 ________________________________________
